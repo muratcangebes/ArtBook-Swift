@@ -28,10 +28,10 @@ Sanat Kitabı uygulaması, kullanıcıların sanat eserlerini kaydedebileceği, 
 Aşağıda, uygulamanın bazı ekran görüntüleri yer almaktadır:
 
 1. **Ana Ekran**: Kullanıcıların mevcut sanat eserlerini görüntüleyebileceği ana ekran.  
-   ![Ana Ekran](https://github.com/user-attachments/assets/e94e686a-4863-4ca4-a84b-4b9d87e6016c=189x336)
+   ![Ana Ekran](https://github.com/user-attachments/assets/e94e686a-4863-4ca4-a84b-4b9d87e6016c)
 
 2. **Sanat Eseri Görüntüleme**: Detaylı bir sanat eserinin görüntülenmesi.  
-   ![Sanat Eseri Görüntüleme](https://github.com/user-attachments/assets/df4d6590-3edb-4766-8f8c-f8b13b07ed0d=189x336)
+   ![Sanat Eseri Görüntüleme](https://github.com/user-attachments/assets/df4d6590-3edb-4766-8f8c-f8b13b07ed0d)
 
 3. **Sanat Eseri Ekleme**: Yeni sanat eserlerinin eklenebileceği ekran.  
-   ![Sanat Eseri Ekleme](https://github.com/user-attachments/assets/39491e65-b987-43f7-b5fa-4e7cb369744a=189x336)
+   ![Sanat Eseri Ekleme](https://github.com/user-attachments/assets/39491e65-b987-43f7-b5fa-4e7cb369744a)
